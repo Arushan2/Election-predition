@@ -1,0 +1,504 @@
+{
+  "questions": [
+      {
+          "id": 1,
+          "text": "Who is the leading candidate among voters aged 30–59 years?",
+          "answer": "President Ranil Wickremesinghe is the leading candidate among voters aged 30–59 years."
+      },
+      {
+          "id": 2,
+          "text": "Who had the smallest support increase among voters aged 18–29 years?",
+          "answer": "Sajith Premadasa had the smallest support increase among voters aged 18–29 years."
+      },
+      {
+          "id": 3,
+          "text": "Which candidate had the highest support among male voters?",
+          "answer": "President Ranil Wickremesinghe had the highest support among male voters."
+      },
+      {
+          "id": 4,
+          "text": "Who had the most significant support decline among poor voters?",
+          "answer": "Anura Dissanayake had the most significant support decline among poor voters."
+      },
+      {
+          "id": 5,
+          "text": "Who saw the highest support increase among voters who supported Gotabaya Rajapaksa in 2019?",
+          "answer": "President Ranil Wickremesinghe saw the highest support increase among voters who supported Gotabaya Rajapaksa in 2019."
+      },
+      {
+          "id": 6,
+          "text": "Which candidate is the top choice among voters who did not favour the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe is the top choice among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 7,
+          "text": "Who had the greatest support gain among youth (18–29 years)?",
+          "answer": "Sajith Premadasa had the greatest support gain among youth (18–29 years)."
+      },
+      {
+          "id": 8,
+          "text": "Which candidate is leading among voters who supported Gotabaya Rajapaksa in 2019?",
+          "answer": "President Ranil Wickremesinghe is leading among voters who supported Gotabaya Rajapaksa in 2019."
+      },
+      {
+          "id": 9,
+          "text": "Who had the largest support increase among voters with a favourable view of the Aragalaya?",
+          "answer": "Sajith Premadasa had the largest support increase among voters with a favourable view of the Aragalaya."
+      },
+      {
+          "id": 10,
+          "text": "Which candidate has the lowest support among better-off voters?",
+          "answer": "A generic SLPP candidate has the lowest support among better-off voters."
+      },
+      {
+          "id": 11,
+          "text": "Who is the top candidate among voters who are unfavourable to the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe is the top candidate among voters who are unfavourable to the Aragalaya."
+      },
+      {
+          "id": 12,
+          "text": "Who had the smallest support increase among older voters (60+ years)?",
+          "answer": "Anura Dissanayake had the smallest support increase among older voters (60+ years)."
+      },
+      {
+          "id": 13,
+          "text": "Who had the largest decline in support among estate/Indian Tamil voters?",
+          "answer": "Sajith Premadasa had the largest decline in support among estate/Indian Tamil voters."
+      },
+      {
+          "id": 14,
+          "text": "Which candidate has the highest support among voters who did not favour the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe has the highest support among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 15,
+          "text": "Who experienced the largest gain in support among voters aged 18–29 years?",
+          "answer": "Sajith Premadasa experienced the largest gain in support among voters aged 18–29 years."
+      },
+      {
+          "id": 16,
+          "text": "Who had the highest support increase among better-off voters?",
+          "answer": "President Ranil Wickremesinghe had the highest support increase among better-off voters."
+      },
+      {
+          "id": 17,
+          "text": "Which candidate saw the most significant drop in support among Muslims?",
+          "answer": "Anura Dissanayake saw the most significant drop in support among Muslims."
+      },
+      {
+          "id": 18,
+          "text": "Who is the leading candidate among poor voters according to the August 2024 MRP model estimates?",
+          "answer": "Sajith Premadasa is the leading candidate among poor voters according to the August 2024 MRP model estimates."
+      },
+      {
+          "id": 19,
+          "text": "Who is the second place candidate among voters aged 30–59 years?",
+          "answer": "Sajith Premadasa is in the second place among voters aged 30–59 years."
+      },
+      {
+          "id": 20,
+          "text": "Which candidate experienced the smallest support increase among voters who were previously supportive of Rajapaksa/SLPP?",
+          "answer": "Anura Dissanayake experienced the smallest support increase among voters who were previously supportive of Rajapaksa/SLPP."
+      },
+      {
+          "id": 21,
+          "text": "Who had the highest support increase among voters aged 60+ years?",
+          "answer": "President Ranil Wickremesinghe had the highest support increase among voters aged 60+ years."
+      },
+      {
+          "id": 22,
+          "text": "Which candidate has the highest support among Muslim voters?",
+          "answer": "Sajith Premadasa has the highest support among Muslim voters."
+      },
+      {
+          "id": 23,
+          "text": "Who is the third-place candidate among voters who supported Sajith Premadasa in 2019?",
+          "answer": "Anura Dissanayake is the third-place candidate among voters who supported Sajith Premadasa in 2019."
+      },
+      {
+          "id": 24,
+          "text": "Who is the leading candidate among voters who did not favour the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe is the leading candidate among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 25,
+          "text": "Which candidate had the largest increase in support among voters aged 30–59 years?",
+          "answer": "President Ranil Wickremesinghe had the largest increase in support among voters aged 30–59 years."
+      },
+      {
+          "id": 26,
+          "text": "Who saw the largest decline in support among poor voters?",
+          "answer": "Anura Dissanayake saw the largest decline in support among poor voters."
+      },
+      {
+          "id": 27,
+          "text": "Which candidate is the top choice among voters who are unfavourable to the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe is the top choice among voters who are unfavourable to the Aragalaya."
+      },
+      {
+          "id": 28,
+          "text": "Who had the smallest support increase among youth (18–29 years)?",
+          "answer": "Sajith Premadasa had the smallest support increase among youth (18–29 years)."
+      },
+      {
+          "id": 29,
+          "text": "Who is leading among voters who supported Gotabaya Rajapaksa in 2019?",
+          "answer": "President Ranil Wickremesinghe is leading among voters who supported Gotabaya Rajapaksa in 2019."
+      },
+      {
+          "id": 30,
+          "text": "Which candidate had the highest increase in support among better-off voters?",
+          "answer": "President Ranil Wickremesinghe had the highest increase in support among better-off voters."
+      },
+      {
+          "id": 31,
+          "text": "Who had the largest support increase among voters who were unfavourable to the Aragalaya?",
+          "answer": "Sajith Premadasa had the largest support increase among voters who were unfavourable to the Aragalaya."
+      },
+      {
+          "id": 32,
+          "text": "Which candidate has the lowest support among voters aged 18–29 years?",
+          "answer": "Anura Dissanayake has the lowest support among voters aged 18–29 years."
+      },
+      {
+          "id": 33,
+          "text": "Who is the top candidate among voters who supported AK Dissanayake in 2019?",
+          "answer": "AK Dissanayake is the top candidate among voters who supported him in the 2019 Presidential Election."
+      },
+      {
+          "id": 34,
+          "text": "Who had the most significant support gain among voters who did not favour the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe had the most significant support gain among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 35,
+          "text": "Who is the leading candidate among voters aged 30–59 years?",
+          "answer": "President Ranil Wickremesinghe is the leading candidate among voters aged 30–59 years."
+      },
+      {
+          "id": 36,
+          "text": "Which candidate had the highest support among voters aged 18–29 years?",
+          "answer": "Sajith Premadasa had the highest support among voters aged 18–29 years."
+      },
+      {
+          "id": 37,
+          "text": "Who had the largest support decline among voters aged 60+ years?",
+          "answer": "Anura Dissanayake had the largest support decline among voters aged 60+ years."
+      },
+      {
+          "id": 38,
+          "text": "Which candidate had the smallest support gain among voters aged 30–59 years?",
+          "answer": "Anura Dissanayake had the smallest support gain among voters aged 30–59 years."
+      },
+      {
+          "id": 39,
+          "text": "Who is the top choice among voters who supported Gotabaya Rajapaksa in 2019?",
+          "answer": "President Ranil Wickremesinghe is the top choice among voters who supported Gotabaya Rajapaksa in 2019."
+      },
+      {
+          "id": 40,
+          "text": "Who experienced the most significant decline in support among voters who did not favour the Aragalaya?",
+          "answer": "Anura Dissanayake experienced the most significant decline in support among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 41,
+          "text": "Which candidate is leading among voters aged 18–29 years?",
+          "answer": "Sajith Premadasa is leading among voters aged 18–29 years."
+      },
+      {
+          "id": 42,
+          "text": "Who had the largest support increase among voters aged 18–29 years?",
+          "answer": "Sajith Premadasa had the largest support increase among voters aged 18–29 years."
+      },
+      {
+          "id": 43,
+          "text": "Which candidate had the highest support gain among voters who were previously supportive of Rajapaksa/SLPP?",
+          "answer": "President Ranil Wickremesinghe had the highest support gain among voters who were previously supportive of Rajapaksa/SLPP."
+      },
+      {
+          "id": 44,
+          "text": "Who had the highest support increase among voters who supported Gotabaya Rajapaksa in 2019?",
+          "answer": "President Ranil Wickremesinghe had the highest support increase among voters who supported Gotabaya Rajapaksa in 2019."
+      },
+      {
+          "id": 45,
+          "text": "Which candidate had the smallest support decline among voters aged 30–59 years?",
+          "answer": "Anura Dissanayake had the smallest support decline among voters aged 30–59 years."
+      },
+      {
+          "id": 46,
+          "text": "Who experienced the highest support increase among voters aged 60+ years?",
+          "answer": "President Ranil Wickremesinghe experienced the highest support increase among voters aged 60+ years."
+      },
+      {
+          "id": 47,
+          "text": "Which candidate is in the second place among voters who did not favour the Aragalaya?",
+          "answer": "Sajith Premadasa is in the second place among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 48,
+          "text": "Who had the smallest support increase among voters who were previously supportive of Gotabaya Rajapaksa?",
+          "answer": "Anura Dissanayake had the smallest support increase among voters who were previously supportive of Gotabaya Rajapaksa."
+      },
+      {
+          "id": 49,
+          "text": "Which candidate had the highest support among voters who did not favour the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe had the highest support among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 50,
+          "text": "Who is the top candidate among voters aged 30–59 years?",
+          "answer": "President Ranil Wickremesinghe is the top candidate among voters aged 30–59 years."
+      },
+      {
+          "id": 51,
+          "text": "Who had the largest support gain among voters who were previously supportive of Rajapaksa/SLPP?",
+          "answer": "President Ranil Wickremesinghe had the largest support gain among voters who were previously supportive of Rajapaksa/SLPP."
+      },
+      {
+          "id": 52,
+          "text": "Which candidate experienced the greatest support increase among voters who did not favour the Aragalaya?",
+          "answer": "Sajith Premadasa experienced the greatest support increase among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 53,
+          "text": "Who had the largest support increase among voters who are unfavourable to the Aragalaya?",
+          "answer": "Sajith Premadasa had the largest support increase among voters who are unfavourable to the Aragalaya."
+      },
+      {
+          "id": 54,
+          "text": "Which candidate had the smallest support increase among voters aged 60+ years?",
+          "answer": "Anura Dissanayake had the smallest support increase among voters aged 60+ years."
+      },
+      {
+          "id": 55,
+          "text": "Who is leading among voters who did not favour the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe is leading among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 56,
+          "text": "Who had the most significant decline in support among voters who were previously supportive of Gotabaya Rajapaksa?",
+          "answer": "Anura Dissanayake had the most significant decline in support among voters who were previously supportive of Gotabaya Rajapaksa."
+      },
+      {
+          "id": 57,
+          "text": "Which candidate is the top choice among voters who did not favour the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe is the top choice among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 58,
+          "text": "Who had the largest support increase among voters who supported Sajith Premadasa in 2019?",
+          "answer": "Sajith Premadasa had the largest support increase among voters who supported him in 2019."
+      },
+      {
+          "id": 59,
+          "text": "Which candidate had the highest support among voters aged 18–29 years?",
+          "answer": "Sajith Premadasa had the highest support among voters aged 18–29 years."
+      },
+      {
+          "id": 60,
+          "text": "Who experienced the greatest support decline among voters aged 30–59 years?",
+          "answer": "Anura Dissanayake experienced the greatest support decline among voters aged 30–59 years."
+      },
+      {
+          "id": 61,
+          "text": "Which candidate is leading among better-off voters?",
+          "answer": "President Ranil Wickremesinghe is leading among better-off voters."
+      },
+      {
+          "id": 62,
+          "text": "Who had the smallest support increase among voters who were unfavourable to the Aragalaya?",
+          "answer": "Anura Dissanayake had the smallest support increase among voters who were unfavourable to the Aragalaya."
+      },
+      {
+          "id": 63,
+          "text": "Which candidate had the most significant support gain among voters aged 60+ years?",
+          "answer": "President Ranil Wickremesinghe had the most significant support gain among voters aged 60+ years."
+      },
+      {
+          "id": 64,
+          "text": "Who had the largest support decline among voters aged 30–59 years?",
+          "answer": "Anura Dissanayake had the largest support decline among voters aged 30–59 years."
+      },
+      {
+          "id": 65,
+          "text": "Which candidate is the top choice among voters who are unfavourable to the Aragalaya?",
+          "answer": "Sajith Premadasa is the top choice among voters who are unfavourable to the Aragalaya."
+      },
+      {
+          "id": 66,
+          "text": "Who had the smallest support increase among voters who supported Gotabaya Rajapaksa in 2019?",
+          "answer": "Anura Dissanayake had the smallest support increase among voters who supported Gotabaya Rajapaksa in 2019."
+      },
+      {
+          "id": 67,
+          "text": "Which candidate is leading among Muslim voters?",
+          "answer": "Sajith Premadasa is leading among Muslim voters."
+      },
+      {
+          "id": 68,
+          "text": "Who had the largest support increase among voters who are unfavourable to the Aragalaya?",
+          "answer": "Sajith Premadasa had the largest support increase among voters who are unfavourable to the Aragalaya."
+      },
+      {
+          "id": 69,
+          "text": "Which candidate experienced the highest support decline among voters aged 18–29 years?",
+          "answer": "Anura Dissanayake experienced the highest support decline among voters aged 18–29 years."
+      },
+      {
+          "id": 70,
+          "text": "Who is the top candidate among voters who did not favour the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe is the top candidate among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 71,
+          "text": "Which candidate is the leading choice among voters aged 60+ years?",
+          "answer": "President Ranil Wickremesinghe is the leading choice among voters aged 60+ years."
+      },
+      {
+          "id": 72,
+          "text": "Who had the highest support gain among voters who were previously supportive of Gotabaya Rajapaksa?",
+          "answer": "President Ranil Wickremesinghe had the highest support gain among voters who were previously supportive of Gotabaya Rajapaksa."
+      },
+      {
+          "id": 73,
+          "text": "Which candidate saw the most significant increase in support among better-off voters?",
+          "answer": "President Ranil Wickremesinghe saw the most significant increase in support among better-off voters."
+      },
+      {
+          "id": 74,
+          "text": "Who is the leading candidate among voters who are unfavourable to the Aragalaya?",
+          "answer": "Sajith Premadasa is the leading candidate among voters who are unfavourable to the Aragalaya."
+      },
+      {
+          "id": 75,
+          "text": "Who had the smallest support decline among voters who supported Gotabaya Rajapaksa in 2019?",
+          "answer": "Sajith Premadasa had the smallest support decline among voters who supported Gotabaya Rajapaksa in 2019."
+      },
+      {
+          "id": 76,
+          "text": "Which candidate is leading among voters aged 18–29 years?",
+          "answer": "Sajith Premadasa is leading among voters aged 18–29 years."
+      },
+      {
+          "id": 77,
+          "text": "Who had the highest support increase among voters who were unfavourable to the Aragalaya?",
+          "answer": "Sajith Premadasa had the highest support increase among voters who were unfavourable to the Aragalaya."
+      },
+      {
+          "id": 78,
+          "text": "Which candidate experienced the largest support gain among voters aged 60+ years?",
+          "answer": "President Ranil Wickremesinghe experienced the largest support gain among voters aged 60+ years."
+      },
+      {
+          "id": 79,
+          "text": "Who had the smallest support increase among voters aged 30–59 years?",
+          "answer": "Anura Dissanayake had the smallest support increase among voters aged 30–59 years."
+      },
+      {
+          "id": 80,
+          "text": "Who is leading among voters who did not favour the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe is leading among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 81,
+          "text": "Which candidate had the smallest support decline among voters who did not favour the Aragalaya?",
+          "answer": "Sajith Premadasa had the smallest support decline among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 82,
+          "text": "Who had the highest support increase among voters aged 30–59 years?",
+          "answer": "President Ranil Wickremesinghe had the highest support increase among voters aged 30–59 years."
+      },
+      {
+          "id": 83,
+          "text": "Which candidate is the top choice among voters who are unfavourable to the Aragalaya?",
+          "answer": "Sajith Premadasa is the top choice among voters who are unfavourable to the Aragalaya."
+      },
+      {
+          "id": 84,
+          "text": "Who had the largest support decline among voters aged 30–59 years?",
+          "answer": "Anura Dissanayake had the largest support decline among voters aged 30–59 years."
+      },
+      {
+          "id": 85,
+          "text": "Which candidate had the highest support increase among voters aged 60+ years?",
+          "answer": "President Ranil Wickremesinghe had the highest support increase among voters aged 60+ years."
+      },
+      {
+          "id": 86,
+          "text": "Who had the largest support increase among voters who supported Gotabaya Rajapaksa in 2019?",
+          "answer": "Sajith Premadasa had the largest support increase among voters who supported Gotabaya Rajapaksa in 2019."
+      },
+      {
+          "id": 87,
+          "text": "Which candidate is leading among voters who did not favour the Aragalaya?",
+          "answer": "President Ranil Wickremesinghe is leading among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 88,
+          "text": "Who is the top candidate among voters aged 18–29 years?",
+          "answer": "Sajith Premadasa is the top candidate among voters aged 18–29 years."
+      },
+      {
+          "id": 89,
+          "text": "Who experienced the largest support decline among voters aged 30–59 years?",
+          "answer": "Anura Dissanayake experienced the largest support decline among voters aged 30–59 years."
+      },
+      {
+          "id": 90,
+          "text": "Which candidate is leading among voters who are unfavourable to the Aragalaya?",
+          "answer": "Sajith Premadasa is leading among voters who are unfavourable to the Aragalaya."
+      },
+      {
+          "id": 91,
+          "text": "Who had the smallest support increase among voters who did not favour the Aragalaya?",
+          "answer": "Anura Dissanayake had the smallest support increase among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 92,
+          "text": "Which candidate is leading among voters who supported Gotabaya Rajapaksa in 2019?",
+          "answer": "President Ranil Wickremesinghe is leading among voters who supported Gotabaya Rajapaksa in 2019."
+      },
+      {
+          "id": 93,
+          "text": "Who had the highest support gain among voters aged 60+ years?",
+          "answer": "President Ranil Wickremesinghe had the highest support gain among voters aged 60+ years."
+      },
+      {
+          "id": 94,
+          "text": "Which candidate had the smallest support decline among voters aged 60+ years?",
+          "answer": "Sajith Premadasa had the smallest support decline among voters aged 60+ years."
+      },
+      {
+          "id": 95,
+          "text": "Who had the largest support increase among voters who did not favour the Aragalaya?",
+          "answer": "Sajith Premadasa had the largest support increase among voters who did not favour the Aragalaya."
+      },
+      {
+          "id": 96,
+          "text": "Which candidate is the top choice among voters who are unfavourable to the Aragalaya?",
+          "answer": "Sajith Premadasa is the top choice among voters who are unfavourable to the Aragalaya."
+      },
+      {
+          "id": 97,
+          "text": "Who had the smallest support increase among voters aged 30–59 years?",
+          "answer": "Anura Dissanayake had the smallest support increase among voters aged 30–59 years."
+      },
+      {
+          "id": 98,
+          "text": "Which candidate is leading among voters aged 30–59 years?",
+          "answer": "President Ranil Wickremesinghe is leading among voters aged 30–59 years."
+      },
+      {
+          "id": 99,
+          "text": "Who had the most significant support decline among voters aged 30–59 years?",
+          "answer": "Anura Dissanayake had the most significant support decline among voters aged 30–59 years."
+      },
+      {
+          "id": 100,
+          "text": "Which candidate had the highest support increase among voters who did not favour the Aragalaya?",
+          "answer": "Sajith Premadasa had the highest support increase among voters who did not favour the Aragalaya."
+      }
+  ]
+}

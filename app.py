@@ -43,7 +43,7 @@ def load_files_from_data_folder():
     
     # Load all .txt files in the folder
     for filename in os.listdir(data_folder):
-        if filename.endswith(".csv"):
+        if filename.endswith(".json"):
             file_path = os.path.join(data_folder, filename)
             df = process_file(file_path)
             all_dataframes.append(df)
