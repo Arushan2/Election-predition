@@ -5,13 +5,10 @@ import json
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 import creds
 
-# Configure the GenAI with API Key
 genai.configure(api_key=creds.GEMINI_API_KEY)
 
-# Title of the app
 st.title("Know about our politicians? 🤔")
 
-# Configuration for the Generative Model
 generation_config = {
     "temperature": 0,
     "top_p": 0.95,
@@ -20,13 +17,11 @@ generation_config = {
     "response_mime_type": "text/plain",
 }
 
-# Load the model
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash-8b-exp-0827",
     generation_config=generation_config
 )
 
-# Function to read JSON files from the 'data1' folder
 def load_data_from_folder(folder_path):
     data = []
     if not os.path.exists(folder_path):
@@ -44,7 +39,6 @@ def load_data_from_folder(folder_path):
             with open(file_path, 'r') as file:
                 try:
                     json_data = json.load(file)
-                    # Extract questions from the JSON data
                     if "questions" in json_data:
                         for item in json_data["questions"]:
                             if isinstance(item, dict) and "question" in item:
@@ -58,17 +52,13 @@ def load_data_from_folder(folder_path):
 
     return data
 
-# Function to prepare input text from the loaded data
 def prepare_input_text(data):
     return "\n".join(data)
 
-# Function to handle the user message and election data
 def get_user_message_reply(user_message, data):
     try:
-        # Prepare the election data as context
         election_data = prepare_input_text(data)
         
-        # Combine election data with user's message
         prompt = (
             f"{election_data}\n"
             f"User Message: {user_message}\n"
@@ -86,11 +76,9 @@ def get_user_message_reply(user_message, data):
     except Exception as e:
         st.error(f"Error generating reply: {e}")
         return None
-
-# Load data from the 'data1' folder
+    
 data_folder = "data1"
 questions = load_data_from_folder(data_folder)
-# Text area for user input
 user_input = st.text_area("Do you have any doubts about our politicians? 🤔 If so, feel free to ask me! 😉 I’ll assist you with my knowledge.")
 
 if st.button("Ask Help from AI"):
