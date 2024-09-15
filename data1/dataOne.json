@@ -1,0 +1,700 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the significance of the 2024 Sri Lankan election?",
+        "answer": "The 2024 Sri Lankan election is significant as it is the first electoral process in over four years and follows the widespread protests in 2022, which led to major political changes."
+      },
+      {
+        "id": 2,
+        "question": "Which candidates are running in the 2024 Sri Lankan election?",
+        "answer": "The major candidates are Ranil Wickremesinghe, Sajith Premadasa, and Anura Kumara Dissanayake."
+      },
+      {
+        "id": 3,
+        "question": "What is Ranil Wickremesinghe's campaign platform?",
+        "answer": "Ranil Wickremesinghe's campaign platform focuses on economic stability and IMF-led reforms, with his manifesto titled 'Puluwan Sri Lanka' advocating for a Theravada Trade Economy."
+      },
+      {
+        "id": 4,
+        "question": "What economic indicators does Wickremesinghe highlight in his campaign?",
+        "answer": "Wickremesinghe highlights reduced inflation and increased foreign reserves, reaching approximately US$5.4 billion by May 2024."
+      },
+      {
+        "id": 5,
+        "question": "What are the criticisms of Wickremesinghe's presidency?",
+        "answer": "Criticisms include undemocratic actions, potential executive overreach, and increased poverty and inequality."
+      },
+      {
+        "id": 6,
+        "question": "What is Sajith Premadasa's economic policy?",
+        "answer": "Sajith Premadasa's economic policy is characterized as 'social democratic,' with promises of state-linked patronage and subsidies."
+      },
+      {
+        "id": 7,
+        "question": "What is Premadasa's stance on the IMF deal?",
+        "answer": "Premadasa aims to negotiate terms within the existing IMF deal to be more favorable for economically vulnerable sections of society."
+      },
+      {
+        "id": 8,
+        "question": "What promises does Premadasa make regarding housing?",
+        "answer": "Premadasa promises to provide government-owned land for low-income and middle-class housing schemes."
+      },
+      {
+        "id": 9,
+        "question": "How does Anura Kumara Dissanayake's economic policy differ from others?",
+        "answer": "Dissanayake's economic policy advocates for a state-directed mixed economy, with a focus on industrialization and domestic manufacturing."
+      },
+      {
+        "id": 10,
+        "question": "What is Dissanayake's stance on the 13th Amendment?",
+        "answer": "The NPP under Dissanayake supports maintaining the provincial council system but has not fully endorsed the 13th Amendment."
+      },
+      {
+        "id": 11,
+        "question": "What is Namal Rajapaksa's position in the election?",
+        "answer": "Namal Rajapaksa is the SLPP presidential candidate, and he opposes policies such as privatisation and the full implementation of the 13th Amendment."
+      },
+      {
+        "id": 12,
+        "question": "What role do smaller parties play in the election?",
+        "answer": "Smaller parties can significantly influence post-election coalitions and the ideological discourse, though they are unlikely to win many votes."
+      },
+      {
+        "id": 13,
+        "question": "What is the potential outcome if no candidate secures a majority?",
+        "answer": "If no candidate secures a majority, the election could go to a second round where the top two candidates compete."
+      },
+      {
+        "id": 14,
+        "question": "How might the election results impact Sri Lanka's foreign policy?",
+        "answer": "The election results could impact Sri Lanka's foreign policy direction, with potential shifts towards India, China, or other regional powers based on the winning candidate's preferences."
+      },
+      {
+        "id": 15,
+        "question": "Which candidate is expected to lean more towards India and Western powers?",
+        "answer": "Wickremesinghe or Premadasa are expected to lean more towards India and Western powers."
+      },
+      {
+        "id": 16,
+        "question": "Which candidate is expected to build closer ties with China?",
+        "answer": "Anura Kumara Dissanayake's NPP is expected to build closer ties with China."
+      },
+      {
+        "id": 17,
+        "question": "What influence do Tamil and Muslim political parties have on the election?",
+        "answer": "Tamil and Muslim political parties can influence the vote distribution, with some backing Premadasa and others potentially supporting Wickremesinghe."
+      },
+      {
+        "id": 18,
+        "question": "What is the current status of the SLFP?",
+        "answer": "The SLFP is fragmented, with different factions supporting various candidates, but it retains the ability to mobilize some votes."
+      },
+      {
+        "id": 19,
+        "question": "What are the main promises of the Sarvajana Balaya party?",
+        "answer": "The Sarvajana Balaya party adopts an economic nationalist stance and opposes power sharing."
+      },
+      {
+        "id": 20,
+        "question": "What does the People’s Struggle Alliance advocate for?",
+        "answer": "The People’s Struggle Alliance supports left-leaning economic policies, an alternative to the IMF programme, and substantial power sharing."
+      },
+      {
+        "id": 21,
+        "question": "What is the expected impact of the election on Sri Lanka’s political stability?",
+        "answer": "The election's outcome could influence political stability, potentially leading to post-election coalitions and challenges in governance."
+      },
+      {
+        "id": 22,
+        "question": "What are some of the key issues highlighted in the 2024 election campaigns?",
+        "answer": "Key issues include economic recovery, poverty alleviation, corruption, power-sharing, and foreign policy direction."
+      },
+      {
+        "id": 23,
+        "question": "What was the Aragalaya?",
+        "answer": "The Aragalaya was a series of widespread protests in 2022 driven by dissatisfaction with economic mismanagement under the Gotabaya Rajapaksa government."
+      },
+      {
+        "id": 24,
+        "question": "What has been the impact of IMF-led reforms on Sri Lanka’s economy?",
+        "answer": "IMF-led reforms have led to a reduction in inflation and an increase in foreign reserves, but poverty and inequality have worsened."
+      },
+      {
+        "id": 25,
+        "question": "What are Wickremesinghe's notable achievements according to his campaign?",
+        "answer": "Wickremesinghe's campaign highlights achievements such as reducing inflation and increasing foreign reserves."
+      },
+      {
+        "id": 26,
+        "question": "How does Premadasa's campaign aim to address economic challenges?",
+        "answer": "Premadasa's campaign aims to address economic challenges through social democratic policies and state-linked patronage."
+      },
+      {
+        "id": 27,
+        "question": "What are the main criticisms faced by Premadasa’s campaign?",
+        "answer": "Criticisms include the potential for increased state-linked patronage and questions about the effectiveness of proposed subsidies."
+      },
+      {
+        "id": 28,
+        "question": "What are the economic policies of the NPP under Dissanayake?",
+        "answer": "The NPP advocates for a state-directed mixed economy, focusing on industrialization and domestic manufacturing."
+      },
+      {
+        "id": 29,
+        "question": "How has Dissanayake's stance on the 13th Amendment evolved?",
+        "answer": "Dissanayake's stance has evolved to support maintaining the provincial council system without fully endorsing the 13th Amendment."
+      },
+      {
+        "id": 30,
+        "question": "What are the expected results of the election on the SLPP?",
+        "answer": "The SLPP is expected to retain a smaller section of its voter base, with Namal Rajapaksa positioning himself for future elections."
+      },
+      {
+        "id": 31,
+        "question": "What are the key issues for smaller parties like Sarvajana Balaya and People’s Struggle Alliance?",
+        "answer": "Key issues include opposition to deep economic ties with India and advocating for alternative economic strategies."
+      },
+      {
+        "id": 32,
+        "question": "What is the significance of alliances with smaller parties?",
+        "answer": "Alliances with smaller parties can influence electoral outcomes and shape post-election coalitions."
+      },
+      {
+        "id": 33,
+        "question": "What is the potential for a second-round vote in the election?",
+        "answer": "If no candidate secures a majority, the election may go to a second round between the top two candidates."
+      },
+      {
+        "id": 34,
+        "question": "What role do the Tamil and Muslim communities play in the election?",
+        "answer": "These communities play a significant role in influencing the vote distribution and supporting various candidates."
+      },
+      {
+        "id": 35,
+        "question": "What are the implications of the election for Sri Lanka's relationship with India?",
+        "answer": "The election outcome could affect Sri Lanka's relationship with India, depending on which candidate wins and their foreign policy stance."
+      },
+      {
+        "id": 36,
+        "question": "How might a Premadasa presidency affect economic policies?",
+        "answer": "A Premadasa presidency might lead to more pro-poor economic policies and negotiations for better terms within the IMF deal."
+      },
+      {
+        "id": 37,
+        "question": "What are the key features of Wickremesinghe's economic recovery plan?",
+        "answer": "Wickremesinghe's plan includes aligning with IMF-led reforms, focusing on macroeconomic stability, and increasing foreign reserves."
+      },
+      {
+        "id": 38,
+        "question": "How does the NPP's economic policy compare to the current government's?",
+        "answer": "The NPP's policy is more state-directed and focuses on industrialization, contrasting with the current government's IMF-aligned approach."
+      },
+      {
+        "id": 39,
+        "question": "What is the expected impact of the election on Sri Lanka’s domestic politics?",
+        "answer": "The election is expected to impact domestic politics through potential shifts in governance and coalition dynamics."
+      },
+      {
+        "id": 40,
+        "question": "What are the concerns about Wickremesinghe's democratic practices?",
+        "answer": "Concerns include undemocratic actions, potential executive overreach, and criticisms of certain laws."
+      },
+      {
+        "id": 41,
+        "question": "What are the main promises of the People’s Struggle Alliance?",
+        "answer": "The People’s Struggle Alliance promises an economic alternative to the IMF programme and substantial power-sharing reforms."
+      },
+      {
+        "id": 42,
+        "question": "What role do the Ilankai Tamil Arasu Kachchi (ITAK) and Muslim Congress play in the election?",
+        "answer": "ITAK and Muslim Congress are backing Premadasa, which could influence the Tamil and Muslim vote."
+      },
+      {
+        "id": 43,
+        "question": "What are the potential challenges for the winning candidate?",
+        "answer": "Challenges include forming stable post-election coalitions and addressing ongoing economic and social issues."
+      },
+      {
+        "id": 44,
+        "question": "What is the anticipated voter turnout for the election?",
+        "answer": "The anticipated voter turnout will depend on the level of public engagement and interest in the election."
+      },
+      {
+        "id": 45,
+        "question": "What are the implications of the election for Sri Lanka's economic future?",
+        "answer": "The election will have significant implications for Sri Lanka's economic policies and recovery efforts."
+      },
+      {
+        "id": 46,
+        "question": "What are the expected effects of post-election coalitions?",
+        "answer": "Post-election coalitions could impact governance, policy implementation, and political stability."
+      },
+      {
+        "id": 47,
+        "question": "What is the expected role of smaller parties in shaping post-election discourse?",
+        "answer": "Smaller parties could influence post-election discourse by providing alternative viewpoints and policies."
+      },
+      {
+        "id": 48,
+        "question": "What are the key policy differences between the main candidates?",
+        "answer": "Key policy differences include economic strategies, foreign policy orientation, and approaches to power-sharing."
+      },
+      {
+        "id": 49,
+        "question": "What are the implications of potential second-round voting?",
+        "answer": "Second-round voting could lead to further political negotiations and coalition-building among candidates."
+      },
+      {
+        "id": 50,
+        "question": "What is the significance of economic stability in the election campaigns?",
+        "answer": "Economic stability is a key issue, with candidates proposing different strategies to address economic challenges and recovery."
+      },
+      {
+        "id": 51,
+        "question": "What are the expected foreign policy directions of the main candidates?",
+        "answer": "Wickremesinghe and Premadasa are expected to lean towards India and Western powers, while Dissanayake may build closer ties with China."
+      },
+      {
+        "id": 52,
+        "question": "What are the major economic concerns highlighted by Premadasa?",
+        "answer": "Premadasa highlights issues such as housing challenges and the need for more favorable IMF terms for vulnerable groups."
+      },
+      {
+        "id": 53,
+        "question": "What are the main criticisms of the NPP’s approach to economic policy?",
+        "answer": "Criticisms include a lack of clarity on the 13th Amendment and the potential for nationalist tendencies to resurface."
+      },
+      {
+        "id": 54,
+        "question": "What is the current status of the SLFP's support in the election?",
+        "answer": "The SLFP is divided, with different factions supporting various candidates and affecting their overall impact."
+      },
+      {
+        "id": 55,
+        "question": "What are the potential impacts of the election on Sri Lanka’s social fabric?",
+        "answer": "The election could impact Sri Lanka’s social fabric through policy changes, reconciliation efforts, and addressing community needs."
+      },
+      {
+        "id": 56,
+        "question": "What is the expected role of international observers in the election?",
+        "answer": "International observers are expected to monitor the election process, ensure transparency, and provide reports on electoral integrity."
+      },
+      {
+        "id": 57,
+        "question": "What are the implications of a potential coalition government?",
+        "answer": "A coalition government could lead to compromises on policy, coalition dynamics, and potential challenges in governance."
+      },
+      {
+        "id": 58,
+        "question": "What are the key factors influencing voter behavior in the election?",
+        "answer": "Key factors include economic conditions, candidate policies, and public perception of political stability."
+      },
+      {
+        "id": 59,
+        "question": "What is the significance of the 2024 election for Sri Lankan democracy?",
+        "answer": "The 2024 election is significant for Sri Lankan democracy as it represents a crucial moment for political and economic recovery."
+      },
+      {
+        "id": 60,
+        "question": "What are the main electoral challenges faced by the candidates?",
+        "answer": "Candidates face challenges such as mobilizing support, addressing voter concerns, and managing campaign resources."
+      },
+      {
+        "id": 61,
+        "question": "What are the expected policy shifts following the election?",
+        "answer": "Policy shifts may include changes in economic strategy, foreign policy, and domestic governance depending on the winning candidate."
+      },
+      {
+        "id": 62,
+        "question": "What is the impact of past protests on the current election?",
+        "answer": "Past protests have influenced voter sentiment and the political landscape, contributing to the current election dynamics."
+      },
+      {
+        "id": 63,
+        "question": "What are the economic priorities of the current government?",
+        "answer": "The current government's economic priorities include stabilizing inflation, managing foreign reserves, and implementing IMF reforms."
+      },
+      {
+        "id": 64,
+        "question": "What are the key promises made by Namal Rajapaksa?",
+        "answer": "Namal Rajapaksa promises to continue the SLPP's policies and address issues such as privatisation and the 13th Amendment."
+      },
+      {
+        "id": 65,
+        "question": "What are the main factors driving the election campaign for the major candidates?",
+        "answer": "Main factors include economic recovery, addressing social issues, and shaping foreign policy."
+      },
+      {
+        "id": 66,
+        "question": "What is the role of the IMF in the election context?",
+        "answer": "The IMF plays a role through its economic reforms, which influence candidates' policies and campaign platforms."
+      },
+      {
+        "id": 67,
+        "question": "What are the potential benefits of the election for Sri Lanka’s international relations?",
+        "answer": "The election could lead to strengthened international relations depending on the winning candidate's foreign policy stance."
+      },
+      {
+        "id": 68,
+        "question": "What are the key issues for voters in the 2024 election?",
+        "answer": "Key issues include economic stability, poverty alleviation, corruption, and governance reforms."
+      },
+      {
+        "id": 69,
+        "question": "What is the significance of the election results for future Sri Lankan administrations?",
+        "answer": "The election results will shape the direction of future administrations and their approach to governance and policy-making."
+      },
+      {
+        "id": 70,
+        "question": "What are the expected outcomes for each major candidate?",
+        "answer": "Expected outcomes include potential shifts in policy, governance challenges, and coalition-building efforts."
+      },
+      {
+        "id": 71,
+        "question": "What role does public opinion play in the election?",
+        "answer": "Public opinion plays a significant role in shaping campaign strategies, candidate platforms, and overall election dynamics."
+      },
+      {
+        "id": 72,
+        "question": "What are the potential effects of the election on Sri Lankan businesses?",
+        "answer": "The election could impact business confidence, investment opportunities, and economic policies affecting the business environment."
+      },
+      {
+        "id": 73,
+        "question": "What are the potential impacts of the election on Sri Lankan foreign investments?",
+        "answer": "The election may influence foreign investment based on the winning candidate's policies and approach to international relations."
+      },
+      {
+        "id": 74,
+        "question": "What are the key policy proposals of Premadasa's campaign?",
+        "answer": "Premadasa's key proposals include housing schemes, state-linked patronage, and negotiations within the IMF framework."
+      },
+      {
+        "id": 75,
+        "question": "What are the main criticisms of Wickremesinghe's economic policies?",
+        "answer": "Criticisms include the impact of IMF reforms on poverty, potential executive overreach, and undemocratic practices."
+      },
+      {
+        "id": 76,
+        "question": "What are the expected impacts of Dissanayake’s policies on Sri Lankan industry?",
+        "answer": "Dissanayake's policies may lead to increased focus on domestic manufacturing and industrialization efforts."
+      },
+      {
+        "id": 77,
+        "question": "What are the primary concerns of voters regarding the election?",
+        "answer": "Primary concerns include economic recovery, governance quality, and candidate credibility."
+      },
+      {
+        "id": 78,
+        "question": "What are the expected challenges for the election winners in implementing their policies?",
+        "answer": "Challenges include managing coalition politics, addressing economic issues, and maintaining public support."
+      },
+      {
+        "id": 79,
+        "question": "What role does media coverage play in the election?",
+        "answer": "Media coverage influences public perception, campaign dynamics, and voter behavior through reporting on candidates and issues."
+      },
+      {
+        "id": 80,
+        "question": "What are the implications of the election for Sri Lankan social programs?",
+        "answer": "The election results could affect social programs through policy changes, funding allocations, and program priorities."
+      },
+      {
+        "id": 81,
+        "question": "What are the key issues for Tamil and Muslim voters in the election?",
+        "answer": "Key issues include representation, economic opportunities, and addressing community-specific concerns."
+      },
+      {
+        "id": 82,
+        "question": "What is the expected impact of the election on Sri Lanka’s educational policies?",
+        "answer": "The election could lead to changes in educational policies depending on the priorities of the winning candidate."
+      },
+      {
+        "id": 83,
+        "question": "What are the key promises made by the Sarvajana Balaya party?",
+        "answer": "Key promises include opposing privatisation and advocating for economic nationalism."
+      },
+      {
+        "id": 84,
+        "question": "What are the main features of the People’s Struggle Alliance's policy platform?",
+        "answer": "Main features include an alternative to the IMF programme and advocating for substantial power-sharing reforms."
+      },
+      {
+        "id": 85,
+        "question": "What is the significance of coalition-building in the election?",
+        "answer": "Coalition-building is significant for forming a stable government and influencing policy outcomes post-election."
+      },
+      {
+        "id": 86,
+        "question": "What are the potential effects of the election on Sri Lankan civil society?",
+        "answer": "The election may impact civil society through changes in governance, policy implementation, and social programs."
+      },
+      {
+        "id": 87,
+        "question": "What are the key factors influencing voter turnout in the 2024 election?",
+        "answer": "Key factors include public engagement, candidate appeal, and the overall political climate."
+      },
+      {
+        "id": 88,
+        "question": "What is the expected role of international organizations in monitoring the election?",
+        "answer": "International organizations are expected to monitor electoral processes, ensure transparency, and provide assessments of election integrity."
+      },
+      {
+        "id": 89,
+        "question": "What are the expected economic impacts of the election results?",
+        "answer": "Economic impacts may include changes in investment climate, policy direction, and economic recovery efforts."
+      },
+      {
+        "id": 90,
+        "question": "What are the key policy areas that the winning candidate will need to address?",
+        "answer": "Key policy areas include economic recovery, governance reforms, foreign relations, and social issues."
+      },
+      {
+        "id": 91,
+        "question": "What are the main challenges for the election administration?",
+        "answer": "Challenges include ensuring electoral integrity, managing logistics, and addressing potential disputes."
+      },
+      {
+        "id": 92,
+        "question": "What is the expected impact of the election on Sri Lankan healthcare policies?",
+        "answer": "The election could lead to changes in healthcare policies depending on the priorities of the winning candidate."
+      },
+      {
+        "id": 93,
+        "question": "What are the key economic promises of the major candidates?",
+        "answer": "Key economic promises include economic recovery strategies, social welfare programs, and foreign investment policies."
+      },
+      {
+        "id": 94,
+        "question": "What are the potential implications of the election on Sri Lankan infrastructure projects?",
+        "answer": "The election may impact infrastructure projects through changes in policy priorities and funding allocations."
+      },
+      {
+        "id": 95,
+        "question": "What are the main differences in foreign policy approaches between the candidates?",
+        "answer": "Main differences include orientation towards India, China, and Western powers, with varying implications for international relations."
+      },
+      {
+        "id": 96,
+        "question": "What are the key electoral issues for Sri Lankan youth?",
+        "answer": "Key issues for Sri Lankan youth include employment opportunities, education, and political representation."
+      },
+      {
+        "id": 97,
+        "question": "What are the expected challenges for the new administration in addressing economic recovery?",
+        "answer": "Challenges include managing inflation, implementing reforms, and addressing socio-economic disparities."
+      },
+      {
+        "id": 98,
+        "question": "What is the potential for post-election instability?",
+        "answer": "Potential instability may arise from coalition negotiations, policy disagreements, and public reaction to election outcomes."
+      },
+      {
+        "id": 99,
+        "question": "What role do campaign finance and resources play in the election?",
+        "answer": "Campaign finance and resources play a crucial role in shaping campaign strategies, outreach efforts, and voter engagement."
+      },
+      {
+        "id": 100,
+        "question": "What are the key factors that will determine the success of the candidates' campaigns?",
+        "answer": "Key factors include public perception, campaign effectiveness, and addressing voter concerns."
+      },
+      {
+        "id": 101,
+        "question": "What are the implications of the election for Sri Lanka’s labor market?",
+        "answer": "The election could impact labor market policies through changes in employment strategies, labor rights, and economic policies."
+      },
+      {
+        "id": 102,
+        "question": "What are the expected policy changes related to Sri Lankan agriculture following the election?",
+        "answer": "Policy changes could include adjustments to agricultural subsidies, land use policies, and support for farmers."
+      },
+      {
+        "id": 103,
+        "question": "What are the key concerns of international investors regarding the election?",
+        "answer": "Key concerns include political stability, economic policies, and potential changes in investment climate."
+      },
+      {
+        "id": 104,
+        "question": "What are the main strategies for managing post-election coalitions?",
+        "answer": "Strategies include negotiation, compromise, and forming alliances to ensure a stable government."
+      },
+      {
+        "id": 105,
+        "question": "What is the expected role of civil society organizations in the post-election period?",
+        "answer": "Civil society organizations are expected to play a role in advocating for transparency, monitoring governance, and addressing community concerns."
+      },
+      {
+        "id": 106,
+        "question": "What are the key electoral issues for Sri Lankan women?",
+        "answer": "Key issues include gender equality, economic opportunities, and representation in politics."
+      },
+      {
+        "id": 107,
+        "question": "What is the expected impact of the election on Sri Lanka’s environmental policies?",
+        "answer": "The election may influence environmental policies through changes in regulatory approaches and sustainability priorities."
+      },
+      {
+        "id": 108,
+        "question": "What are the potential effects of the election on Sri Lankan tourism?",
+        "answer": "Potential effects include changes in tourism policies, investment in infrastructure, and promotion strategies."
+      },
+      {
+        "id": 109,
+        "question": "What are the key promises of the candidates regarding infrastructure development?",
+        "answer": "Key promises include investment in transportation, urban development, and rural infrastructure projects."
+      },
+      {
+        "id": 110,
+        "question": "What are the implications of the election for Sri Lankan trade policies?",
+        "answer": "The election could impact trade policies through changes in trade agreements, tariffs, and economic priorities."
+      },
+      {
+        "id": 111,
+        "question": "What are the key issues for Sri Lankan farmers in the election?",
+        "answer": "Key issues include agricultural support, land policies, and access to resources."
+      },
+      {
+        "id": 112,
+        "question": "What are the expected impacts of the election on Sri Lankan energy policies?",
+        "answer": "The election may lead to changes in energy policies, including renewable energy initiatives and infrastructure development."
+      },
+      {
+        "id": 113,
+        "question": "What are the main criticisms of the candidates' approaches to social welfare?",
+        "answer": "Criticisms include the effectiveness of proposed programs, funding sources, and long-term impact on vulnerable populations."
+      },
+      {
+        "id": 114,
+        "question": "What is the significance of voter engagement in the election?",
+        "answer": "Voter engagement is significant for ensuring representative outcomes and shaping the overall electoral process."
+      },
+      {
+        "id": 115,
+        "question": "What are the expected policy shifts in Sri Lankan education following the election?",
+        "answer": "Policy shifts may include changes in funding, curriculum reforms, and access to educational resources."
+      },
+      {
+        "id": 116,
+        "question": "What are the key concerns of small businesses in the election?",
+        "answer": "Key concerns include economic policies, regulatory changes, and support for entrepreneurship."
+      },
+      {
+        "id": 117,
+        "question": "What are the potential effects of the election on Sri Lankan public transportation?",
+        "answer": "The election could impact public transportation policies, investment in infrastructure, and service improvements."
+      },
+      {
+        "id": 118,
+        "question": "What are the key issues for the Sri Lankan diaspora in the election?",
+        "answer": "Key issues include foreign policy, diaspora engagement, and support for community initiatives."
+      },
+      {
+        "id": 119,
+        "question": "What is the expected role of technology in the election campaigns?",
+        "answer": "Technology plays a role in campaigning through digital outreach, social media engagement, and data analytics."
+      },
+      {
+        "id": 120,
+        "question": "What are the main policy differences between the candidates regarding healthcare?",
+        "answer": "Policy differences include approaches to healthcare funding, access to services, and public health initiatives."
+      },
+      {
+        "id": 121,
+        "question": "What are the implications of the election for Sri Lankan water resources management?",
+        "answer": "The election may impact water resources management through policy changes, investment in infrastructure, and conservation efforts."
+      },
+      {
+        "id": 122,
+        "question": "What are the key electoral issues for Sri Lankan senior citizens?",
+        "answer": "Key issues include retirement benefits, healthcare access, and support services for the elderly."
+      },
+      {
+        "id": 123,
+        "question": "What are the expected challenges for the new administration in addressing climate change?",
+        "answer": "Challenges include implementing climate policies, managing environmental impacts, and addressing public concerns."
+      },
+      {
+        "id": 124,
+        "question": "What is the potential impact of the election on Sri Lankan housing policies?",
+        "answer": "The election may lead to changes in housing policies, including affordability, land use, and development priorities."
+      },
+      {
+        "id": 125,
+        "question": "What are the main promises related to economic growth made by the candidates?",
+        "answer": "Main promises include strategies for economic development, investment in key sectors, and job creation."
+      },
+      {
+        "id": 126,
+        "question": "What are the key electoral concerns for Sri Lankan students?",
+        "answer": "Key concerns include education quality, affordability, and opportunities for higher education."
+      },
+      {
+        "id": 127,
+        "question": "What is the significance of the election results for Sri Lankan healthcare reform?",
+        "answer": "The election results will influence healthcare reform priorities, funding, and policy implementation."
+      },
+      {
+        "id": 128,
+        "question": "What are the expected impacts of the election on Sri Lankan public safety?",
+        "answer": "The election may impact public safety policies through changes in law enforcement strategies and crime prevention efforts."
+      },
+      {
+        "id": 129,
+        "question": "What are the main policy proposals related to digital infrastructure in the election?",
+        "answer": "Policy proposals include investment in digital infrastructure, technology access, and cybersecurity measures."
+      },
+      {
+        "id": 130,
+        "question": "What are the implications of the election for Sri Lankan housing market?",
+        "answer": "The election may influence the housing market through changes in policy, investment in housing development, and affordability initiatives."
+      },
+      {
+        "id": 131,
+        "question": "What are the key electoral issues for Sri Lankan entrepreneurs?",
+        "answer": "Key issues include support for small businesses, access to funding, and regulatory environment."
+      },
+      {
+        "id": 132,
+        "question": "What is the role of international aid in the election context?",
+        "answer": "International aid plays a role in supporting economic development, humanitarian efforts, and policy reforms."
+      },
+      {
+        "id": 133,
+        "question": "What are the expected policy changes related to Sri Lankan food security?",
+        "answer": "Policy changes may include support for agriculture, food distribution systems, and nutrition programs."
+      },
+      {
+        "id": 134,
+        "question": "What are the main promises regarding public sector reform in the election?",
+        "answer": "Main promises include improving efficiency, reducing corruption, and enhancing public sector services."
+      },
+      {
+        "id": 135,
+        "question": "What is the expected impact of the election on Sri Lankan sports policies?",
+        "answer": "The election may impact sports policies through changes in funding, development programs, and promotion of sports activities."
+      },
+      {
+        "id": 136,
+        "question": "What are the key issues for Sri Lankan cultural preservation in the election?",
+        "answer": "Key issues include support for cultural heritage, funding for preservation projects, and promotion of cultural activities."
+      },
+      {
+        "id": 137,
+        "question": "What are the expected changes in Sri Lankan urban development policies?",
+        "answer": "Expected changes include investment in infrastructure, urban planning, and development priorities."
+      },
+      {
+        "id": 138,
+        "question": "What are the main policy proposals related to Sri Lankan rural development?",
+        "answer": "Policy proposals include investment in rural infrastructure, support for agriculture, and improving access to services."
+      },
+      {
+        "id": 139,
+        "question": "What is the significance of the election for Sri Lankan national security?",
+        "answer": "The election will influence national security policies, including defense strategies and public safety measures."
+      }       
+    ]
+  }
+  
